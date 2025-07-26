@@ -5,8 +5,8 @@ import socket
 from fake_useragent import UserAgent
 
 # Telegram Bot credentials
-BOT_TOKEN = "7211390464:AAFaizSqi-nFdpUcvYDMdod6Y_lHGGi22mQ"
-CHAT_ID = "7344283312"
+BOT_TOKEN = "8097557727:AAEzHPxfgyYxzbdoln0HW7iIymX5jBH6g6M"
+CHAT_ID = "5637504709"
 
 # Violations dictionary with 6 variations of text for each violation
 violations = {
